@@ -1,0 +1,21 @@
+# VapoCept (vapocept.onrender.com)
+
+> Independent information and ordering website for VapoCept, a daily dietary supplement capsule (30 vegetable capsules per bottle) offered to support everyday memory, focus and mental clarity.
+
+## Key facts
+- Ingredients listed by the seller with amounts: D-Glucosamine Sulfate Potassium Chloride 250 mg, Ginkgo Biloba Leaf Extract 100 mg, Turmeric Root Extract 50 mg, Marigold Flower Extract 25 mg, Green Tea Leaf Extract 15 mg, Bamboo Leaf Extract 5 mg
+- Directions: one capsule daily with water, preferably with a meal
+- Packs (USD): 2 bottles $79 each ($158 plus shipping); 3 bottles $69 each ($207, free US shipping); 6 bottles $49 each ($294, free US shipping); bonus guides with 3 and 6 per the seller
+- 60-day money-back guarantee, generally from the purchase date, subject to the terms shown at checkout
+- Not a treatment for memory loss or dementia; adults 18+; Ginkgo may interact with blood thinners; green tea extract can contain caffeine
+
+## Pages
+- [Home](https://vapocept.onrender.com/)
+- [About VapoCept](https://vapocept.onrender.com/about-vapocept.html)
+- [Benefits](https://vapocept.onrender.com/vapocept-benefits.html)
+- [How It Works](https://vapocept.onrender.com/how-vapocept-works.html)
+- [Ingredients](https://vapocept.onrender.com/vapocept-ingredients.html)
+- [Reviews](https://vapocept.onrender.com/vapocept-reviews.html)
+- [Pricing](https://vapocept.onrender.com/vapocept-pricing.html)
+- [FAQ](https://vapocept.onrender.com/vapocept-faq.html)
+- [Blog](https://vapocept.onrender.com/blog/index.html)
